@@ -31,10 +31,12 @@ I'm a passionate full-stack developer focused on building real-world apps that s
 
 [![Website](https://img.shields.io/badge/Website-green?style=for-the-badge&logo=google-chrome)](https://michael-anderson.vercel.app)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Michael-Anderson92)
+
 ---
 
 ### 📊 GitHub Stats
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Michael-Anderson92)  
+  
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ---
