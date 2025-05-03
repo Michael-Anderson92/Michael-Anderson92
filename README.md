@@ -37,7 +37,7 @@ I'm a passionate full-stack developer focused on building real-world apps that s
 
 ### 📊 GitHub Stats
   
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Anderson92&show_icons=true&theme=radical)
 
 ---
 
