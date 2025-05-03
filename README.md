@@ -21,8 +21,10 @@ I'm a passionate full-stack developer focused on building real-world apps that s
 ---
 
 ### 🔭 Current Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelanderson&repo=portfolio)](https://github.com/michaelanderson/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelanderson&repo=ecommerce-app)](https://github.com/michaelanderson/ecommerce-app)
+
+[![Michael Anderson Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Michael-Anderson92&repo=michael-anderson-portfolio&theme=radical)](https://github.com/Michael-Anderson92/michael-anderson-portfolio)
+
+[![Candybar E-commerce Application](https://github-readme-stats.vercel.app/api/pin/?username=Michael-Anderson92&repo=candybar-ecommerce-application&theme=radical)](https://github.com/Michael-Anderson92/candybar-ecommerce-application)
 
 ---
 
