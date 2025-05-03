@@ -21,9 +21,8 @@ I'm a passionate full-stack developer focused on building real-world apps that s
 ---
 
 ### 🔭 Current Projects
-
-- **Personal Portfolio** - Showcasing my skills and projects  
-- **E-commerce App** - Building a modern, performant shopping experience  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelanderson&repo=portfolio)](https://github.com/michaelanderson/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelanderson&repo=ecommerce-app)](https://github.com/michaelanderson/ecommerce-app)
 
 ---
 
