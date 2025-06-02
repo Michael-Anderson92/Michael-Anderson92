@@ -20,14 +20,6 @@ I'm a passionate full-stack developer focused on building real-world apps that s
 
 ---
 
-### 🔭 Current Projects
-
-[![Michael Anderson Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Michael-Anderson92&repo=michael-anderson-portfolio&theme=radical)](https://github.com/Michael-Anderson92/michael-anderson-portfolio)
-
-[![Candybar E-commerce Application](https://github-readme-stats.vercel.app/api/pin/?username=Michael-Anderson92&repo=candybar-ecommerce-application&theme=radical)](https://github.com/Michael-Anderson92/candybar-ecommerce-application)
-
----
-
 ### 📫 Connect with Me
 
 [![Website](https://img.shields.io/badge/Website-green?style=for-the-badge&logo=google-chrome)](https://michael-anderson.vercel.app)
@@ -42,10 +34,3 @@ I'm a passionate full-stack developer focused on building real-world apps that s
 
 ---
 
-### ⚡ Fun Fact
-
-> "I believe great apps come from solving real problems and a good keyboard makes coding even better."
-
----
-
-Feel free to customize this with your actual links and add dynamic widgets like visitor counts, Spotify now playing, or blog posts using GitHub Actions for extra flair[1][6].
