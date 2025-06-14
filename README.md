@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate full-stack developer focused on building real-world apps that solve problems. Currently working on my portfolio and an e-commerce app.
+I'm a passionate full-stack developer with a knack for back-end architecture, focused on building real-world apps that help people. Currently spearheading the backend for a startup called Elaview through the EVU organization, with revolutionary AI technology in the space of marketing and advertisement. 
 
 - 💻 Skilled in MERN stack, Next.js, PostgreSQL (Supabase), Tailwind CSS, and MaterialUI  
 - ⚙️ Love crafting clean, scalable, and user-friendly web applications  
