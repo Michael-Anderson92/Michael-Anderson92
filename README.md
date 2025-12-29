@@ -50,7 +50,7 @@ Junior developer roles, internships, or freelance opportunities in Orange County
 
 ### 📊 GitHub Stats
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-anderson92&show_icons=true&theme=radical)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-anderson92&show_icons=true&theme=radical&cache_seconds=1800)
 
 ---
 
