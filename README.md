@@ -12,7 +12,7 @@ Former HVAC Technician → Full-Stack Developer
 
 ### 👨‍💻 About Me
 
-After 10 years troubleshooting HVAC systems, I made the leap to software engineering. Turns out debugging broken code isn't so different from diagnosing a faulty compressor - just better hours and climate control.
+After 10 years troubleshooting HVAC systems, I made the leap to software engineering. And I could not be more thrilled! I'm able to be just as technical without the aches and pains. Being able to actually ENJOY air conditioning is just a plus :).
 
 **General Assembly Bootcamp Graduate (Nov 2024 - Mar 2025)**  
 Currently finishing my AA at Santiago Canyon College, transferring to CSUF in 2026 for my CS degree.
